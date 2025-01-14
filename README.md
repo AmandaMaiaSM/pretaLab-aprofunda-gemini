@@ -1,7 +1,6 @@
 # pretaLab Aprofunda Gemini 
 
-# Função `helloGCS` no Google Cloud
-
+### Função no Google Cloud
 ## Descrição
 A Cloud Function no Google Cloud que processa eventos disparados pela adição de arquivos em um bucket do Google Cloud Storage. A função utiliza o modelo generativo **Gemini** do Vertex AI para descrever imagens.
 
